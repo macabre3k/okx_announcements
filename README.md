@@ -62,10 +62,8 @@ okx_announcements_downloader/
 ├── okx_downloader/          # Main module
 │   ├── __init__.py
 │   ├── downloader.py        # Core logic
-│   ├── utils.py             # Helper functions
-├── tests/                   # Test cases
-│   ├── __init__.py
-│   ├── test_downloader.py   # Tests for downloader
+│   ├── utils.py        # Helper functions
+│   ├── main.py         #Example
 ├── requirements.txt         # Dependencies
 ├── setup.py                 # Package configuration
 ├── README.md                # Project documentation
