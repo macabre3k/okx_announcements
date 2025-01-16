@@ -18,7 +18,7 @@ A tool to fetch and save announcements from the OKX website within a specified d
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/okx_announcements_downloader.git
+   git clone https://github.com/macabre3k/okx_announcements.git
    cd okx_announcements_downloader
    ```
 2. Install the package:
