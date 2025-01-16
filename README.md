@@ -63,9 +63,9 @@ okx_announcements_downloader/
 │   ├── __init__.py
 │   ├── downloader.py        # Core logic
 │   ├── utils.py        # Helper functions
-│   ├── main.py         #Example
 ├── requirements.txt         # Dependencies
 ├── setup.py                 # Package configuration
+├── main.py         #Example
 ├── README.md                # Project documentation
 ├── DEPLOYMENT_GUIDE.md      # # Remote Server Deployment: Issues and Solutions
 └── .gitignore               # Ignored files for Git
