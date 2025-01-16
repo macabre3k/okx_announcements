@@ -23,7 +23,7 @@ A tool to fetch and save announcements from the OKX website within a specified d
    ```
 2. Install the package:
    ```bash
-   pip install .
+   pip install -r requirements.txt
    ```
 
 Alternatively, you can build and install the package locally:
@@ -99,4 +99,4 @@ okx_announcements_downloader/
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [lesovaya.mary@mail.com].
+For questions or support, please contact [lesovaya.mary@mail.ru].
