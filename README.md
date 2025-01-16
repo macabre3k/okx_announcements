@@ -67,7 +67,9 @@ okx_announcements_downloader/
 ├── requirements.txt         # Dependencies
 ├── setup.py                 # Package configuration
 ├── README.md                # Project documentation
+├── DEPLOYMENT_GUIDE.md      # # Remote Server Deployment: Issues and Solutions
 └── .gitignore               # Ignored files for Git
+
 ```
 
 ## Contributing
