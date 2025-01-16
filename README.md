@@ -25,13 +25,6 @@ A tool to fetch and save announcements from the OKX website within a specified d
    ```bash
    pip install -r requirements.txt
    ```
-
-Alternatively, you can build and install the package locally:
-```bash
-python setup.py sdist
-pip install dist/okx_announcements_downloader-0.1.tar.gz
-```
-
 ## Usage
 
 ### Example
